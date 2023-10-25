@@ -13,7 +13,7 @@ Various clustering algorithms were used to successfully combine various features
 
           - Office Clustering - GMM.ipynb
 
--Using Spectral Clustering 
+- Using Spectral Clustering 
 
           - Office Clustering - SpectralClustering.ipynb
 
